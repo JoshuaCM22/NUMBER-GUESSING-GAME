@@ -1,0 +1,7 @@
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\NUMBER GUESSING GAME\NUMBER GUESSING GAME\bin\Debug\NUMBER GUESSING GAME.exe.config
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\NUMBER GUESSING GAME\NUMBER GUESSING GAME\bin\Debug\NUMBER GUESSING GAME.exe
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\NUMBER GUESSING GAME\NUMBER GUESSING GAME\bin\Debug\NUMBER GUESSING GAME.pdb
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\NUMBER GUESSING GAME\NUMBER GUESSING GAME\obj\Debug\NUMBER GUESSING GAME.csprojAssemblyReference.cache
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\NUMBER GUESSING GAME\NUMBER GUESSING GAME\obj\Debug\NUMBER GUESSING GAME.csproj.CoreCompileInputs.cache
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\NUMBER GUESSING GAME\NUMBER GUESSING GAME\obj\Debug\NUMBER GUESSING GAME.exe
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\NUMBER GUESSING GAME\NUMBER GUESSING GAME\obj\Debug\NUMBER GUESSING GAME.pdb
